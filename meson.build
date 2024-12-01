@@ -93,7 +93,7 @@ executable(
         dependency('json-glib-1.0'),
         dependency('gdk-pixbuf-2.0'),
         dependency('libwnck-3.0'),
-        dependency('gtksourceview-3.0'),
+        dependency('gtksourceview-4'),
         m_dep
     ],
     install : true
